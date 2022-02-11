@@ -18,3 +18,34 @@
     <img alt="GitHub user" src="https://img.shields.io/badge/author-duanxianpi-brightgreen"/>
   </a>
 </p>
+
+## Introduction
+OCREye is a Simple WPF-based OCR application. The OCR part is support by Google Cloud Platform.
+
+## Feature
+* Using GCP
+* Physical effects (https://github.com/Blueve/Physics2D)
+* Easy to use
+
+## Usage
+1. Right Click move the Eye
+
+    ![HUXUIJ.gif](https://s4.ax1x.com/2022/02/11/HUXUIJ.gif)
+
+2. Left Click start to take a screenshot 
+
+    * **Please set config.json before using. If it isn't exist, creat one at the same level with applicantion)**
+    ```Json
+    {
+        "snipPath":""
+    }
+    ```
+    * **Please make sure you set up the service account of GCP before using)**
+
+
+    ![HUXtZF.gif](https://s4.ax1x.com/2022/02/11/HUXtZF.gif)
+
+3. Scroll the wheel will change the size of Eye
+
+    ![HUXNa4.gif](https://s4.ax1x.com/2022/02/11/HUXNa4.gif)
+
