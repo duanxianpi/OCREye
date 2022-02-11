@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKEQuOWr1wHDX7og+ktJCK8xNXp2I1KZwoKvI90ikxiF54qytT7N5hHgcgN8wJha/4aT3n72yNVVrtENEoIsYA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Win32\\OCREye\\Physics2D\\Physics2D.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\stylecop.analyzers\\1.0.2\\stylecop.analyzers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

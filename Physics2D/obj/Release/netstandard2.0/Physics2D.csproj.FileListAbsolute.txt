@@ -1,0 +1,10 @@
+D:\Project\Win32\OCREye\Physics2D\bin\Release\netstandard2.0\Physics2D.deps.json
+D:\Project\Win32\OCREye\Physics2D\bin\Release\netstandard2.0\Physics2D.dll
+D:\Project\Win32\OCREye\Physics2D\bin\Release\netstandard2.0\Physics2D.pdb
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.csproj.AssemblyReference.cache
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.AssemblyInfoInputs.cache
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.AssemblyInfo.cs
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.csproj.CoreCompileInputs.cache
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.dll
+D:\Project\Win32\OCREye\Physics2D\obj\Release\netstandard2.0\Physics2D.pdb

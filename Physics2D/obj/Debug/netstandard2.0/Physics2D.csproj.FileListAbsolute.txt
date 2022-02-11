@@ -1,0 +1,10 @@
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\bin\Debug\netstandard2.0\Physics2D.deps.json
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\bin\Debug\netstandard2.0\Physics2D.dll
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\bin\Debug\netstandard2.0\Physics2D.pdb
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.csproj.AssemblyReference.cache
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.AssemblyInfo.cs
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.csproj.CoreCompileInputs.cache
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.dll
+C:\Users\peter\Desktop\Physics2D-master\Physics2D\obj\Debug\netstandard2.0\Physics2D.pdb

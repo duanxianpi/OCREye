@@ -1,0 +1,4 @@
+bin/
+packages/
+!bin/Debug/config.json
+!bin/Release/config.json
